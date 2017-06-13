@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="publisherID">a150119f84822ba</string>
+    <!-- <string name="deviceID">HT091PL07706</string> -->
+    <string name="googleMapsApiKey">0MSmGPDqasdwSSNgTXxXZE1kAAgCsA4lUY3D1mw</string> <!-- release maps key -->
+  <!--  <string name="googleMapsApiKey">0MSmGPDqasdzHY12ytrhtFdz8rIpuWnojxM2TPw</string>  dev maps key -->
+</resources>

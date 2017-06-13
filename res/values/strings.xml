@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TravelAssist - Lite</string>
+    <string name="geo_data" />
+    <string name="location_data" />
+    <string name="distance_data" />
+    <string name="menu_reset">Zurücksetzen</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/slide_show"
+          android:title="SlideShow" />
+    <item android:id="@+id/clean_map"
+          android:title="Pfad(e) löschen" />
+    <item android:id="@+id/draw_path"
+          android:title="Pfad ein" />
+     <item android:id="@+id/exit_appl"
+          android:title="Beenden" />
+</menu>
